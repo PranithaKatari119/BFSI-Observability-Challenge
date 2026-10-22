@@ -1,0 +1,11 @@
+.env
+chroma_store/
+__pycache__/
+*.pyc
+.venv/
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+app_broken_backup.py
